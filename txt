@@ -1,0 +1,8 @@
+clamp(mínimo, preferencial, máximo) 
+
+vantagens: codígo limpo e simples
+layout fluido
+
+para formação de texto ou paragrafos na pagina
+
+não substitui a função do @media
